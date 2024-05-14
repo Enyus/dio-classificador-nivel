@@ -1,0 +1,11 @@
+{
+  "name": "dio-classificador-nivel",
+  "version": "1.0.0",
+  "description": "Desafio Classificador de Nível de Herói - Bootcamp Santander DIO Jogos com Godot",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
